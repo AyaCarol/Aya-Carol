@@ -54,12 +54,13 @@
 
 ## 🌺 Vamos papear?
 <p align="center">
-<a href="https://twitter.com/ayacarol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayacarol_" width="52" height="40" /></a>
-<a href="https://linkedin.com/in/ayacarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayacarol" width="52" height="40" /></a>
-<a href="https://discord.gg/6uCDsxjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6uCDsxjf" width="52" height="40" /></a>
-<a href="https://www.instagram.com/carol.png__" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</a>
+<a href="https://twitter.com/ayacarol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayacarol_" width="52" height="52" /></a>
+  
+<a href="https://linkedin.com/in/ayacarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayacarol" width="52" height="52" /></a>
+
+<a href="https://discord.gg/6uCDsxjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6uCDsxjf" width="52" height="52" /></a>
+
+<a href="https://www.instagram.com/carol.png__" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="52" alt="instagram logo"  /></a>
 </p>
 
 ###
