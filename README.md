@@ -5,7 +5,7 @@
 
 <p align="left">Meu nome é Ana Carolina, formada em Análise e Desenvolvimento de Sistemas e fascinada por tudo que envolve tecnologia e computação. Atualmente atuo na área de Análise de Dados, mas também possuo vasto conhecimento em desenvolvimento Full-Stack</p>
 
-*Linguagens que possuo proficiência:*
+*Linguagens e tecnologias que possuo proficiência:*
 
 ###
 
