@@ -36,12 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayacarol/ayacarol/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ayacarol/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=linkedin&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -53,7 +47,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/rqq9kmfz0v68in6uykggleerb">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rqq9kmfz0v68in6uykggleerb&count=5&unique=true" alt="Spotify recently played"  />
   </a>
