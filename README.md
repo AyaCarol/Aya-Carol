@@ -47,13 +47,11 @@
 <a href="https://discord.gg/6uCDsxjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6uCDsxjf" height="30" width="40" /></a>
 </p>
 
+###
+
 ## 🎧 O que estou ouvindo?
 
-###
-
 <img align="right" height="200" src="https://media.tenor.com/_AZJmhAry0gAAAAj/rat-dancing-meme.gif"  />
-
-###
 
 <div align="left">
   <a href="https://open.spotify.com/user/rqq9kmfz0v68in6uykggleerb">
@@ -61,5 +59,6 @@
   </a>
 </div>
 
+###
 
 
