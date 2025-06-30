@@ -1,16 +1,15 @@
-<h2 align="left">Olá👋! Seja Bem-Vindo!</h2>
+## 🎀 Sobre mim 🎀
 
 ###
 
-<p align="left">Meu nome é Ana Carolina, formada em Análise e Desenvolvimento de Sistemas e fascinada por tudo que envolve tecnologia e computação. Atualmente atuo na área de Análise de Dados, mas também possuo vasto conhecimento em desenvolvimento Full-Stack</p>
+<p align="left">Olá👋! Meu nome é Ana Carolina, formada em Análise e Desenvolvimento de Sistemas e fascinada por tudo que envolve tecnologia e computação. Atualmente atuo na área de Análise de Dados, mas também possuo vasto conhecimento em desenvolvimento Full-Stack</p>
 
 - 🔭 Atualmente trabalho na **Telefonica VIVO**
-
 - 🌱 Atualmente aprendendo **Data Science**
 
-*Linguagens e tecnologias que possuo proficiência:*
-
 ###
+
+## 🖥️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,18 +35,22 @@
 
 ###
 
+## 📊 Stats
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">Vamos papear?</h3>
+## 🌺 Vamos papear?
 <p align="left">
 <a href="https://twitter.com/ayacarol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayacarol_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayacarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayacarol" height="30" width="40" /></a>
 <a href="https://discord.gg/6uCDsxjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6uCDsxjf" height="30" width="40" /></a>
 </p>
+
+## 🎧 O que estou ouvindo?
 
 ###
 
