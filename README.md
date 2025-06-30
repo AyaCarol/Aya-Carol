@@ -51,16 +51,15 @@
 
 ###
 
+<img align="right" height="200" src="https://media.tenor.com/_AZJmhAry0gAAAAj/rat-dancing-meme.gif"  />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/rqq9kmfz0v68in6uykggleerb">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rqq9kmfz0v68in6uykggleerb&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayacarol/ayacarol/output/snake.svg" alt="Snake animation" />
-
-###
