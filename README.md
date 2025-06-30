@@ -70,6 +70,6 @@
   <a href="https://open.spotify.com/user/rqq9kmfz0v68in6uykggleerb">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rqq9kmfz0v68in6uykggleerb&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-  <img height="200" src="https://tenor.com/pt-BR/view/psybirdb1oom-gif-14797655785087855427"  />
+  <img height="300" src="https://i.gifer.com/origin/1c/1c29154636f73295ad5fe84068c7a180.gif"  />
 </div>
 
