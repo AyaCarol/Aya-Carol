@@ -11,11 +11,22 @@
 
 ###
 
+## 📊 Stats
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ayacarol&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+</div>
+
+###
+
 ## 🖥️ Tech Stack
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -41,22 +52,14 @@
 
 ###
 
-## 📊 Stats
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ayacarol&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-</div>
-
-###
-
 ## 🌺 Vamos papear?
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ayacarol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayacarol_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayacarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayacarol" height="30" width="40" /></a>
 <a href="https://discord.gg/6uCDsxjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6uCDsxjf" height="30" width="40" /></a>
+<a href="https://www.instagram.com/carol.png__" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</a>
 </p>
 
 ###
