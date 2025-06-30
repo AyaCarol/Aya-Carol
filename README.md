@@ -1,14 +1,11 @@
-<h2 align="left">Hello 👋!</h2>
+<h2 align="left">Olá👋!</h2>
+<h3 align="left">Seja bem-vindo!</h3>
 
 ###
 
-<p align="left">Nice to meet you! I'm Ana, an Data Scientist and Front-End Dev from Brazil.</p>
+<p align="left">Meu nome é Ana Carolina, sou fascinada por tudo que envolve tecnologia e computação. Sou formada em Análise e Desenvolvimento de Sistemas e atualmente atuo na área de Análise de Dados, mas também possuo conhecimento vasto em desenvolvimento Full-Stack</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Linguagens que possuo proficiência:</h3>
 
 ###
 
@@ -32,6 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left">Linguagens que possuo proficiência:</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
 </div>
 
 ###
