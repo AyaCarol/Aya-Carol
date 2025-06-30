@@ -15,9 +15,9 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="200" alt="languages graph"  />
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ayacarol&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayacarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="200" alt="languages graph"  />
 </div>
 
 ###
