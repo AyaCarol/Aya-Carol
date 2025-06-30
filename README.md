@@ -4,8 +4,10 @@
 
 <p align="left">Olá👋! Meu nome é Ana Carolina, formada em Análise e Desenvolvimento de Sistemas e fascinada por tudo que envolve tecnologia e computação. Atualmente atuo na área de Análise de Dados, mas também possuo vasto conhecimento em desenvolvimento Full-Stack</p>
 
-- 🔭 Atualmente trabalho na **Telefonica VIVO**
-- 🌱 Atualmente aprendendo **Data Science**
+🔭 Atualmente trabalho na **Telefonica VIVO**
+🌱 Aprendendo **Data Science**
+🎈 Me contate via: anacarolina@yahoo.com.br
+💫 Fun fact: Amo artes visuais, jogos indie e confeitaria
 
 ###
 
